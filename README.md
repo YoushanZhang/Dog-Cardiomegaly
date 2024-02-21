@@ -4,7 +4,7 @@
 This directory contains the datasets for paper [Regressive Vision Transformer for Dog Cardiomegaly Assessment](https://www.nature.com/articles/s41598-023-50063-x), which is accepted by Scientific Reports.
 
 
-If you have any questions, please email to yz945@cornell.edu
+If you have any questions, please email to youshan.zhang@yu.edu
 ### Reference
 
 If you find it is helpful, please cite it as:
@@ -33,7 +33,7 @@ Or in bibtex style:
 
 
 <p align="center">
-  <img src="./assts/res.png" width="50%"> 
+  <img src="./assts/re.png" width="50%"> 
 </p>
 <p align="center">Dog Cardiomegaly Assessment Accuracy</p>
 
