@@ -39,7 +39,7 @@ Or in bibtex style:
 
 
 ### Usage
-1. [Download the labeled training, validation, and unlabeled test dataset here.](https://yuad-my.sharepoint.com/:f:/g/personal/youshan_zhang_yu_edu/EvaDmH5ZgsJBv8PCIP8cCwoBFl8ujWRMu_r8fjGeJkoYRg?e=1KJZrx) 
+1. [Download the labeled training, validation, and unlabeled test dataset here.](https://yuad-my.sharepoint.com/:f:/g/personal/youshan_zhang_yu_edu/EvaDmH5ZgsJBv8PCIP8cCwoBFl8ujWRMu_r8fjGeJkoYRg?e=J6ob1R) 
 2. Train the model with the labeled training dataset and validation dataset
 3. Evaluate the test dataset using the software
 
