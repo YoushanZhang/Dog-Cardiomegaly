@@ -43,7 +43,7 @@ Or in bibtex style:
 2. Train the model with the labeled training dataset and validation dataset
 3. Evaluate the test dataset using the software
 
-### Evluation
+### Evaluation
 To avoid tuning the model based on the test dataset, we also provide an application to automatically evaluate the performance of your prediction.
 
 1. You need to generate your prediction as a CSV file: [image_name, predicted labels]. We also uploaded a sample_results.csv for your reference.
